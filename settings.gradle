@@ -1,0 +1,2 @@
+rootProject.name = "Spodcastr"
+include ':app'
